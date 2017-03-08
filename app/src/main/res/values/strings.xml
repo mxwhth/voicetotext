@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">会议纪要系统</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="document">文档</string>
+    <string name="templet">模板</string>
+    <string name="repeatRecord">重录</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">进入应用</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="save_document">保存文档</string>
+    <string name="title">文档标题: </string>
+    <string name="title_activity_document_detail">文档详情</string>
+    <string name="notEmpty">文档不能为空</string>
+    <string name="title_template_list">Templates</string>
+    <string name="title_template_detail">Template Detail</string>
+    <string name="title_activity_word_list">WordListActivity</string>
+</resources>
